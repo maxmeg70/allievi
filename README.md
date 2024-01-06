@@ -1,2 +1,3 @@
 # allievi
-create users for generic school 
+Create users for generic school
+#Different ways of managing school with Python
